@@ -3,7 +3,7 @@
 
 
 ## :gear: Project Demo
-- Application is hosted on Heroku. You can see the [demo](https://airqualityindexcheckerr.herokuapp.com/)
+- Application is hosted on Heroku. You can see the [demo]https://emprediction.herokuapp.com/)
 - Detailed walkthrough video for the above project is posted on the Youtube. [Watch Here](https://www.youtube.com/watch?v=AGFId4sYWP4)
 
 ## :hourglass_flowing_sand: Dataset
